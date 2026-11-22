@@ -1,0 +1,7 @@
+﻿相对路径,字节,排除原因
+07\_archive\model\lyrics_v2_model.pth,40100909,类型排除:.pth
+07\model\lyrics_final_model.pth,19705739,类型排除:.pth
+07\_archive\model\lstm_model.pth,12472187,类型排除:.pth
+07\_archive\model\char_lstm_model.pth,7314797,类型排除:.pth
+06\01_ANN案例_手机价格分类案例\model\phone_price.pth,211977,类型排除:.pth
+.vscode\settings.json,135,目录排除:.vscode
